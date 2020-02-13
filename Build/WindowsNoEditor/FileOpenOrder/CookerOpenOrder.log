@@ -1,546 +1,551 @@
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 0
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 1
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 2
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 3
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 4
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 5
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 0
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 1
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 2
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 3
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 4
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 5
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 6
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 7
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 8
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 9
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 10
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 11
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 12
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Meshes/BaseMaterial.uasset" 13
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 14
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPersonBP/FirstPersonOverview.uasset" 15
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 7
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 8
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 9
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 10
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 11
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 12
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Meshes/BaseMaterial.uasset" 13
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 14
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPersonBP/FirstPersonOverview.uasset" 15
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 16
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 17
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 18
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 19
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Box_Brush11_StaticMesh.uasset" 20
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Meshes/CubeMaterial.uasset" 21
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Meshes/1M_Cube.uasset" 22
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 23
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Meshes/Box_Brush10_StaticMesh.uasset" 24
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Meshes/Box_Brush11_StaticMesh.uasset" 25
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 26
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 27
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 28
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 29
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 30
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Meshes/Box_Brush9_StaticMesh.uasset" 31
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Meshes/TemplateFloor.uasset" 32
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 33
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 34
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 35
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 36
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 37
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 38
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 39
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Collapse01.uasset" 40
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Collapse02.uasset" 41
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Explosion01.uasset" 42
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Explosion02.uasset" 43
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Fire01.uasset" 44
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 45
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Light01.uasset" 46
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Light01_Cue.uasset" 47
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Light02.uasset" 48
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Light02_Cue.uasset" 49
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Smoke01.uasset" 50
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 51
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Starter_Music01.uasset" 52
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 53
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 54
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Steam01.uasset" 55
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 56
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Burst_M.uasset" 57
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 58
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 59
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 60
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 61
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Box_Brush11_StaticMesh.uasset" 20
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Meshes/CubeMaterial.uasset" 21
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Meshes/1M_Cube.uasset" 22
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 23
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Meshes/Box_Brush10_StaticMesh.uasset" 24
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Meshes/Box_Brush11_StaticMesh.uasset" 25
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 26
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 27
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 28
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 29
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 30
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Meshes/Box_Brush9_StaticMesh.uasset" 31
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Meshes/TemplateFloor.uasset" 32
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 33
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 34
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 35
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 36
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 37
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 38
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 39
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Collapse01.uasset" 40
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Collapse02.uasset" 41
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Explosion01.uasset" 42
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Explosion02.uasset" 43
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Fire01.uasset" 44
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 45
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Light01.uasset" 46
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Light01_Cue.uasset" 47
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Light02.uasset" 48
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Light02_Cue.uasset" 49
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Smoke01.uasset" 50
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 51
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Starter_Music01.uasset" 52
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 53
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 54
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Steam01.uasset" 55
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 56
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Burst_M.uasset" 57
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 58
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 59
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 60
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 61
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 62
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 63
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 64
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 65
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 66
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/P_Explosion.uasset" 67
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 68
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 63
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 64
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 65
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 66
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/P_Explosion.uasset" 67
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 68
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 69
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 70
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Bush_D.uasset" 71
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Bush_N.uasset" 72
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 73
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_Bush.uasset" 74
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Chair_M.uasset" 75
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Chair_N.uasset" 76
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 77
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_Couch.uasset" 78
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 79
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 80
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 81
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 70
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Bush_D.uasset" 71
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Bush_N.uasset" 72
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 73
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_Bush.uasset" 74
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Chair_M.uasset" 75
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Chair_N.uasset" 76
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 77
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_Couch.uasset" 78
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 79
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 80
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 81
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 82
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 83
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 84
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 85
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 86
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 87
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_Rock.uasset" 88
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 89
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 90
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 91
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_Shelf.uasset" 92
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 93
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_Stairs.uasset" 94
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 95
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 96
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 97
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 98
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 99
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 100
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 101
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 102
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 103
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 104
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 105
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 106
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 107
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 108
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 109
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 110
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 83
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 84
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 85
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 86
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 87
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_Rock.uasset" 88
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 89
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 90
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 91
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_Shelf.uasset" 92
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 93
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_Stairs.uasset" 94
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 95
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 96
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 97
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 98
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 99
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 100
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 101
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 102
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 103
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 104
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 105
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 106
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 107
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 108
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 109
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 110
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 111
 "../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 112
 "../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 113
 "../../../Engine/Content/BasicShapes/Cone.uasset" 114
 "../../../Engine/Content/BasicShapes/Cube.uasset" 115
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 116
-"../../../Engine/Content/BasicShapes/Plane.uasset" 117
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 118
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 119
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 120
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 121
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 122
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 123
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 124
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 125
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 126
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 127
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 128
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 129
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 130
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 131
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 132
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 133
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 134
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 135
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 136
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 137
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 138
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 139
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 140
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 141
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 142
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 143
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 144
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 145
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 146
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 147
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 148
-"../../../Engine/Content/EditorResources/S_Note.uasset" 149
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 150
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 151
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 152
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 153
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 154
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 155
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 156
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 157
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 158
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 159
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 160
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 161
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 162
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 163
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 164
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 165
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 166
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 167
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 168
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 169
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 170
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 171
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 172
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 173
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 174
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 175
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 176
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 177
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 178
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 179
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 180
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 181
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 182
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 183
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 184
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 185
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 186
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 187
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 188
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 189
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 190
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 191
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 192
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 193
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 194
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 195
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 196
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 197
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 198
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 199
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 200
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 201
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 202
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 203
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 204
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 205
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 206
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 207
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 208
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 209
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 210
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 211
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 212
-"../../../Engine/Content/EngineResources/Black.uasset" 213
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 214
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 215
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 216
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 217
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 218
-"../../../Engine/Content/EngineSounds/Master.uasset" 219
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 220
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 221
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 222
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 223
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 224
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 225
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 226
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 227
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 228
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 229
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 230
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 231
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 232
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 233
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 234
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 235
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 236
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 237
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 238
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 239
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 240
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 241
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 242
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 243
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 244
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 245
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 246
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 247
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 248
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 249
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 250
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 251
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 252
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 253
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 254
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 255
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 256
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 257
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 258
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 259
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 260
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 261
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 262
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 263
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 264
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 265
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 266
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 267
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 268
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 269
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 270
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 271
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 272
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 273
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 274
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 275
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 276
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 277
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 278
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 279
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 280
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 281
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 282
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 283
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 284
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 285
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 286
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 287
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 288
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 289
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 290
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 291
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 292
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 293
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 294
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 295
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 296
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 297
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 298
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 299
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 300
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 301
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 302
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 303
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 304
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 305
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 306
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 307
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 308
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 309
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 310
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 311
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 312
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 313
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 314
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 315
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 316
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 317
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 318
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 319
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 320
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 321
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 322
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 323
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 324
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 325
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 326
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 327
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Levels/Cabin_BuiltData.uasset" 328
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Images/unknown.uasset" 329
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Images/unknown_Mat.uasset" 330
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 331
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 332
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 333
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 334
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 335
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 336
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 337
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 338
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 339
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 340
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 341
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Box_Brush10_StaticMesh.uasset" 342
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Meshes/Box_Brush10_StaticMesh1.uasset" 343
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Meshes/Box_Brush12_StaticMesh.uasset" 344
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Meshes/Box_Brush7_StaticMesh.uasset" 345
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Geometry/Meshes/Box_Brush7_StaticMesh1.uasset" 346
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Glass.uasset" 347
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Door_M.uasset" 348
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Door_N.uasset" 349
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/Materials/M_Door.uasset" 350
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_Door.uasset" 351
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Levels/Cabin.umap" 352
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Levels/Landscape_BuiltData.uasset" 353
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 354
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Levels/Landscape.umap" 355
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/UI/MainMenu/Menu.uasset" 356
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/Levels/MainMenu.umap" 357
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 358
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 359
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 360
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 361
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 362
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 363
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 364
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 365
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 366
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 367
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 368
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 369
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 370
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 371
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 372
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 373
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 374
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 375
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 376
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 377
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 378
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 379
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 380
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 381
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 382
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 383
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 384
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 385
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 386
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Statue_M.uasset" 387
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Statue_N.uasset" 388
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 389
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 390
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 391
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_Chair.uasset" 392
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 393
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_Statue.uasset" 394
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 395
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 396
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 397
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_TableRound.uasset" 398
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Maps/Minimal_Default.umap" 399
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 400
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 401
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 402
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 403
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Water_N.uasset" 404
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 405
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 406
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/P_Fire.uasset" 407
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 408
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 409
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/P_Smoke.uasset" 410
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 411
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 412
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 413
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 414
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/P_Sparks.uasset" 415
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 416
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 417
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 418
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 419
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 420
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 421
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 422
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 423
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 424
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 425
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 426
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 427
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 428
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 429
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 430
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 431
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 432
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 433
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 434
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 435
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 436
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 437
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 438
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 439
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 440
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 441
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 442
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 443
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 444
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 445
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 446
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 447
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 448
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 449
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 450
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 451
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 452
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 453
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 454
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 455
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 456
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 457
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 458
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 459
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 460
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 461
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 462
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 463
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 464
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 465
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 466
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 467
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 468
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 469
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 470
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 471
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 472
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 473
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 474
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 475
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 476
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 477
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 478
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 479
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 480
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 481
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 482
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 483
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 484
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 485
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 486
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 487
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 488
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 489
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 490
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 491
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 492
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 493
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 494
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 495
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 496
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 497
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 498
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 499
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 500
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 501
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 502
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 503
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 504
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 505
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 506
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 507
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 508
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 509
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 510
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 511
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 512
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 513
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 514
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 515
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 516
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 517
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Water_M.uasset" 518
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 519
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 520
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 521
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 522
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 523
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 524
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 525
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 526
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 527
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 528
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 529
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/MaterialSphere.uasset" 530
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Frame_M.uasset" 531
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Textures/T_Frame_N.uasset" 532
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 533
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 534
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 535
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 536
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 537
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 538
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 539
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 540
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 541
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 542
-"//StuHomeOdd/HomeDrive7$/1703197/Unreal Projects/Isolation-uProject/Content/StarterContent/Maps/StarterMap.umap" 543
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 544
-"../../../Engine/Content/Maps/Entry.umap" 545
+"../../../Engine/Content/BasicShapes/Plane.uasset" 116
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 117
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 118
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 119
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 120
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 121
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 122
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 123
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 124
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 125
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 126
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 127
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 128
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 129
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 130
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 131
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 132
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 133
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 134
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 135
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 136
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 137
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 138
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 139
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 140
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 141
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 142
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 143
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 144
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 145
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 146
+"../../../Engine/Content/EditorResources/S_Note.uasset" 147
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 148
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 149
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 150
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 151
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 152
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 153
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 154
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 155
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 156
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 157
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 158
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 159
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 160
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 161
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 162
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 163
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 164
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 165
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 166
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 167
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 168
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 169
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 170
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 171
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 172
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 173
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 174
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 175
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 176
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 177
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 178
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 179
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 180
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 181
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 182
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 183
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 184
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 185
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 186
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 187
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 188
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 189
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 190
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 191
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 192
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 193
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 194
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 195
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 196
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 197
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 198
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 199
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 200
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 201
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 202
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 203
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 204
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 205
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 206
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 207
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 208
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 209
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 210
+"../../../Engine/Content/EngineResources/Black.uasset" 211
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 212
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 213
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 214
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 215
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 216
+"../../../Engine/Content/EngineSounds/Master.uasset" 217
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 218
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 219
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 220
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 221
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 222
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 223
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 224
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 225
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 226
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 227
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 228
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 229
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 230
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 231
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 232
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 233
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 234
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 235
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 236
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 237
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 238
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 239
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 240
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 241
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 242
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 243
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 244
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 245
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 246
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 247
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 248
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 249
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 250
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 251
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 252
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 253
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 254
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 255
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 256
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 257
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 258
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 259
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 260
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 261
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 262
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 263
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 264
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 265
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 266
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 267
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 268
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 269
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 270
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 271
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 272
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 273
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 274
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 275
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 276
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 277
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 278
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 279
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 280
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 281
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 282
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 283
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 284
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 285
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 286
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 287
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 288
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 289
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 290
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 291
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 292
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 293
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 294
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 295
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 296
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 297
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 298
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 299
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 300
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 301
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 302
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 303
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 304
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 305
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 306
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 307
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 308
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 309
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 310
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 311
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 312
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 313
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 314
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 315
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 316
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 317
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 318
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 319
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 320
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 321
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 322
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 323
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 324
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 325
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 326
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 327
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 328
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 329
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 330
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 331
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 332
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Levels/Cabin_BuiltData.uasset" 333
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Images/unknown.uasset" 334
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Images/unknown_Mat.uasset" 335
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 336
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 337
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 338
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 339
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 340
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 341
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 342
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 343
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 344
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 345
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 346
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Box_Brush10_StaticMesh.uasset" 347
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Meshes/Box_Brush10_StaticMesh1.uasset" 348
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Meshes/Box_Brush12_StaticMesh.uasset" 349
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Meshes/Box_Brush7_StaticMesh.uasset" 350
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Geometry/Meshes/Box_Brush7_StaticMesh1.uasset" 351
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Glass.uasset" 352
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Door_M.uasset" 353
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Door_N.uasset" 354
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/Materials/M_Door.uasset" 355
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_Door.uasset" 356
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Levels/Cabin.umap" 357
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Levels/Landscape_BuiltData.uasset" 358
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 359
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Levels/Landscape.umap" 360
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/UI/MainMenu/Menu.uasset" 361
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/Levels/MainMenu.umap" 362
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 363
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 364
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 365
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 366
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 367
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 368
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 369
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 370
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 371
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 372
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 373
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 374
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 375
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 376
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 377
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 378
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 379
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 380
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 381
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 382
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 383
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 384
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 385
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 386
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 387
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 388
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 389
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 390
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 391
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Statue_M.uasset" 392
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Statue_N.uasset" 393
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 394
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 395
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 396
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_Chair.uasset" 397
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 398
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_Statue.uasset" 399
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 400
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 401
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 402
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_TableRound.uasset" 403
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Maps/Minimal_Default.umap" 404
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 405
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 406
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 407
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 408
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Water_N.uasset" 409
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 410
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 411
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/P_Fire.uasset" 412
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 413
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 414
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/P_Smoke.uasset" 415
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 416
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 417
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 418
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 419
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/P_Sparks.uasset" 420
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 421
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 422
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 423
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 424
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 425
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 426
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 427
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 428
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 429
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 430
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 431
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 432
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 433
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 434
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 435
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 436
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 437
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 438
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 439
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 440
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 441
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 442
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 443
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 444
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 445
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 446
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 447
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 448
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 449
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 450
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 451
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 452
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 453
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 454
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 455
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 456
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 457
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 458
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 459
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 460
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 461
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 462
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 463
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 464
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 465
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 466
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 467
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 468
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 469
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 470
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 471
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 472
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 473
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 474
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 475
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 476
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 477
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 478
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 479
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 480
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 481
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 482
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 483
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 484
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 485
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 486
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 487
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 488
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 489
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 490
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 491
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 492
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 493
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 494
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 495
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 496
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 497
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 498
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 499
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 500
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 501
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 502
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 503
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 504
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 505
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 506
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 507
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 508
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 509
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 510
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 511
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 512
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 513
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 514
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 515
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 516
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 517
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 518
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 519
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 520
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 521
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 522
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Water_M.uasset" 523
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 524
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 525
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 526
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 527
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 528
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 529
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 530
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 531
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 532
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 533
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 534
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/MaterialSphere.uasset" 535
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Frame_M.uasset" 536
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Textures/T_Frame_N.uasset" 537
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 538
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 539
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 540
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 541
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 542
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 543
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 544
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 545
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 546
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 547
+"../../../../../ultra/Documents/GitHub/Isolation-uProject/Content/StarterContent/Maps/StarterMap.umap" 548
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 549
+"../../../Engine/Content/Maps/Entry.umap" 550
